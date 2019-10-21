@@ -12,6 +12,8 @@ public class main {
         System.out.println(NumberPalindrome.isPalindrome(-1221));
         System.out.println(NumberPalindrome.isPalindrome(-11212));
 
-        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(10));;
+        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(10));
+
+        System.out.println(EvenDigitSum.getEvenDigitSum(252));
     }
 }
