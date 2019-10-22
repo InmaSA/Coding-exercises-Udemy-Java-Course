@@ -19,5 +19,7 @@ public class main {
         System.out.println(SharedDigit.hasSharedDigit(12, 13));
         System.out.println("***********************");
         System.out.println(LastDigitChecker.hasSameLastDigit(90, 97, 999));
+        System.out.println("***********************");
+        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(81, 153));
     }
 }
