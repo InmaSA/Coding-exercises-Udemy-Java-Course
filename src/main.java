@@ -21,5 +21,8 @@ public class main {
         System.out.println(LastDigitChecker.hasSameLastDigit(90, 97, 999));
         System.out.println("***********************");
         System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(81, 153));
+        System.out.println("***********************");
+        InputCalculator.inputThenPrintSumAndAverage();
+
     }
 }
