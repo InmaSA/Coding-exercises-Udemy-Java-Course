@@ -15,5 +15,9 @@ public class main {
         System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(10));
 
         System.out.println(EvenDigitSum.getEvenDigitSum(252));
+
+        System.out.println(SharedDigit.hasSharedDigit(12, 13));
+        System.out.println("***********************");
+        System.out.println(LastDigitChecker.hasSameLastDigit(90, 97, 999));
     }
 }
